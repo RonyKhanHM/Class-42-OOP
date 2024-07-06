@@ -1,0 +1,5 @@
+  -------Inheritance-------
+  1. parent class
+  2. child class
+
+  ---contractor/destractor-----------
